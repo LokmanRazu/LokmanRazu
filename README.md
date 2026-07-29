@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @LokmanRazu
-- 👀 I’m interested in Golang..
-- 🌱 I’m currently learning NestJS,MYSQL..
+👋 Hi, I’m @LokmanRazu
+👀 Building backends with Golang
+🌱 Exploring NestJS & system design
